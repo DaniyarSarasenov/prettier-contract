@@ -1,0 +1,26 @@
+{
+  "name": "prettier-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/DaniyarSarsenov/prettier-contract",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myogeshchavan97/prettier-contract.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Yogesh Chavan <myogeshchavan97@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
